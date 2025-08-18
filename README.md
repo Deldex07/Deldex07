@@ -12,27 +12,15 @@ localizado_em: Pelotas, Brasil
 educacao:
   [
     "Universidade Federal de Pelotas - Graduação",
-    "Estudando programação e lógica computacional",
+    "Estudando programação e lógica computacional"
   ]
-empresa: Estudante
 
 interesses:
   [
     "Desenvolvimento de Software",
-    "Ciência de Dados",
     "Aprendizado de Máquina",
-    "UI/UX",
     "Jogos",
-    "DevOps",
   ]
-background_tecnico:
-  [
-    "Aprendizado em C e Prolog",
-    "Projetos de lógica e estruturas de dados",
-    "Experimentos com Git e GitHub",
-  ]
-atualmente_aprendendo: ["C, Prolog e Git avançado"]
-metas_2025: ["Criar projetos práticos e dominar novas tecnologias"]
 hobbies: ["HQs", "Jogos", "Cinema", "Arte", "Programação"]
 ```
 
