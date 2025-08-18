@@ -11,7 +11,6 @@ Atualmente estou aprendendo os fundamentos da programação e construindo meus p
 - 🔭 Estudando programação e lógica computacional  
 - 🌱 Atualmente aprendendo **C** e **Prolog**  
 - ⚡ Curiosidade: Sou fã de HQs, especialmente da **DC Comics**  
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -21,13 +20,7 @@ Atualmente estou aprendendo os fundamentos da programação e construindo meus p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" width="40" height="40"/>
 </p>
-
 ---
-
-## 📈 Estatísticas do GitHub
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deldex07&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deldex07&layout=compact&theme=radical)
-
 ---
 ## 💻 Systems
 <p>
