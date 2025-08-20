@@ -21,7 +21,7 @@ interesses:
     "Aprendizado de Máquina",
     "Jogos",
   ]
-hobbies: ["HQs", "Jogos", "Cinema", "Arte", "Programação"]
+hobbies: ["HQs", "Jogos", "Programação"]
 ```
 
 ---
