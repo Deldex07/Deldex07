@@ -28,7 +28,7 @@ Hobbies: [Comics, Games, Programming]
 
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,obsidian,linux" />
+    <img src="https://skillicons.dev/icons?i=c,java,md,git,github,vscode,obsidian,bash,linux&perline=4" />
   </a>
   </p>
 
